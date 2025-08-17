@@ -128,11 +128,7 @@
         <h3>18. Privacy Reference</h3>
         <p>Your use of the Service is also governed by our Privacy Policy.</p>
       </div>
-      
-      <div class="terms-acceptance">
-        <button id="acceptTerms" class="terms-accept-btn">I Accept the Terms and Conditions</button>
-        <button id="declineTerms" class="terms-decline-btn">I Decline</button>
-      </div>
+   
     <p>Last Updated: August 15, 2025</p>
 </body>
 </html>
